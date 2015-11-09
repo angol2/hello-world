@@ -1,4 +1,3 @@
 # hello-world
 
-
-#Description here
+Helpdesk Application submission: Week 13
