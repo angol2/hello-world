@@ -1,2 +1,3 @@
 # hello-world
-training
+
+This is only training branch.
